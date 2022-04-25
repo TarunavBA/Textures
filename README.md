@@ -2,17 +2,16 @@
 
 Well..... Your search ends here! This repository contains many free Textures (I have added only one but don't worry i will add more soon!) which you can download and use the FOR FREE! 😮 
 
-But before downloading please consider a like and follow me :smirk: for more free textures.
+But before downloading please consider a like 👍 and follow me :smirk: for more free textures.
 
 :smile: feel free for asking any questions or reporting any issues in the issues section of this repository.
 
-P.S:- this repository has a poor README be cause I am making more textures for YOUR use. YOu can change this update this README by giving me a PR(Pull request) I will always be ONLINE and update this repository as your Pull requests.
+## FAQ's
 
-FAQ's:-
-1. Will there be any problem if i use these textures without giving proper credit to the owner of the Textures? 
-Ans:- Obviously, dear mam/sir please look at the license ⬇️ (ma'am / sir you'll have to show my name at the end of your repository where you have used my Textures. you can provide my name like: Thanks to [TarunavBA](https://github.com/TarunavBA) for providing me these textures. you can even put my name in very small letters i dont care but my name should be presented in your repo.
-```
-Creative Commons Legal Code
+Q1. Will there be any problem if i use these textures without giving proper credit to the owner of the Textures? 
+
+Ans: There won't be a problem but to be safe you can suggest my name as a superscript (<sup>Thanks to {NAME OF THE OWNER OF THIS REPOSITORY} </sup>) but you can't take the WHOLE credit of the textures for yout self. Look at the license below ⬇️
+```Creative Commons Legal Code
 
 CC0 1.0 Universal
 
@@ -134,3 +133,4 @@ express Statement of Purpose.
     party to this document and has no duty or obligation with respect to
     this CC0 or use of the Work.
 ```
+<sup>P.S:- This repository has a poor README be cause I am making more textures for YOUR use. You can update this README by giving me a PR(Pull request) I will always be ONLINE and update this repository as per your Pull requests.</sup>
